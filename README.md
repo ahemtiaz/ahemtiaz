@@ -1,21 +1,25 @@
 ## Anamul Hoque Emtiaj
 
-I work on **large language models for code** — generation, formal specification, and
-machine-checkable verification — and on applied LLM systems that meet messy real-world data.
+I completed my B.Sc. in Computer Science and Engineering at BUET in March 2025, and I currently
+work as a Software Engineer at
+[Bot Food Corporation](https://www.linkedin.com/company/bot-food/home/) through
+[Oplusdojo](https://www.linkedin.com/company/oplusdojo/), building a personal-context platform for
+AI assistants.
 
-Research assistant at the **BUET CSE Incubator** with Prof. Anindya Iqbal, and a research intern in
-the **UIUC++ SRSE** program. B.Sc. in CSE, BUET. Applying for CS PhD programs for Fall 2027.
+Alongside this, I am active in research. My interests span natural language processing, software
+engineering, interdisciplinary AI systems, and applied LLMs. I am a research assistant at the
+**BUET CSE Incubator**, supervised by Prof. Anindya Iqbal, and a research intern in the
+[UIUC++ SRSE 2026](https://uiuc-srse.github.io/) program, supervised by Prof. Darko Marinov (UIUC)
+and Prof. Wenxi Wang (UVA).
 
-**[Website and publications →](https://ahemtiaz.github.io)**
+**[Website and publications &rarr;](https://ahemtiaz.github.io)**
 
-[CV](https://ahemtiaz.github.io/cv.pdf) ·
-[Google Scholar](https://scholar.google.com/citations?user=2cUJBagAAAAJ) ·
-[LinkedIn](https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/) ·
+[CV](https://ahemtiaz.github.io/cv.pdf) &middot;
+[Google Scholar](https://scholar.google.com/citations?user=2cUJBagAAAAJ) &middot;
+[LinkedIn](https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/) &middot;
 <a href="mailto:anamulhoqueemtiaj@gmail.com">Email</a>
 
 ---
 
-<sub>**On this account** — I have been on GitHub since July 2020, from a previous account I lost
-access to in August 2026: [@Anamul-Hoque-Emtiaj](https://github.com/Anamul-Hoque-Emtiaj), where five
-years of coursework, projects and my undergraduate thesis remain public and browsable. This account
-is where new work lives.</sub>
+<sub>**Earlier work** &mdash; five years of coursework, projects and my undergraduate thesis are on
+my previous account, [@Anamul-Hoque-Emtiaj](https://github.com/Anamul-Hoque-Emtiaj).</sub>
