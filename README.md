@@ -16,7 +16,7 @@ and Prof. Wenxi Wang (UVA).
 
 [CV](https://ahemtiaz.github.io/cv.pdf) &middot;
 [Google Scholar](https://scholar.google.com/citations?user=2cUJBagAAAAJ) &middot;
-[LinkedIn](https://www.linkedin.com/in/anamul-hoque-emtiaj-1b944a1a2/) &middot;
+[LinkedIn](https://www.linkedin.com/in/anamul-hoque-emtiaj/) &middot;
 <a href="mailto:anamulhoqueemtiaj@gmail.com">Email</a>
 
 ---
